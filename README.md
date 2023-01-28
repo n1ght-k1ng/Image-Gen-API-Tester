@@ -1,5 +1,7 @@
 # Image-Gen API Tester
 
+### Will work until 1st April until my openai's 18$ Grant expires.
+
 This is a React App for interacting with **openai's DALL-E API**, allowing you to easily generate images from text descriptions.
 ## Installation
 
